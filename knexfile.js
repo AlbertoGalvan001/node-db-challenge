@@ -8,7 +8,7 @@ module.exports = {
       filename: './data/projects.db3'
     },
     migration: {
-      directory: './data/migrations'
+      directory: './migrations'
     },
     seeds: {
       directory: './data/seeds'
