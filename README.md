@@ -52,7 +52,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
    
-   Intermediary table
+   We need an Intermediary table
    
 ## Minimum Viable Product
 
